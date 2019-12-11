@@ -1,5 +1,8 @@
-<img width="926" alt="Screen Shot 2019-12-09 at 12 07 36 PM" src="https://user-images.githubusercontent.com/52920074/70456703-a6819b00-1a7c-11ea-90a8-c73b6053489f.png">
+<img width="1131" alt="Screen Shot 2019-12-10 at 11 44 30 AM" src="https://user-images.githubusercontent.com/52920074/70549600-7a305200-1b42-11ea-8e0e-0c554ff63904.png">
+
 <br>
+"Friendship is a <em>tremendous</em> thing. I see it all over social media – the need for friends. Some voice it as loneliness while others try to compensate by putting up a facade — but the truth remains — we all need friends."
+
 A platform for friends to connect. They can create their profile by adding their experience, education, skills and other important information of their professional career.
 
 Users can also create small posts and like/dislike and comment on other posts.
@@ -132,7 +135,7 @@ npm start
 
 ### <strong>Landing Page</strong>
 
-<img width="948" alt="Screen Shot 2019-12-09 at 12 39 52 PM" src="https://user-images.githubusercontent.com/52920074/70459001-48a38200-1a81-11ea-8dbf-6b598c5491e2.png">
+<img width="1439" alt="Screen Shot 2019-12-10 at 11 44 03 AM" src="https://user-images.githubusercontent.com/52920074/70549595-78ff2500-1b42-11ea-96af-4447bb1742ed.png">
 <br>
 
 ### <strong>Sign Up</strong>
@@ -167,11 +170,6 @@ npm start
 ### <strong>Chat with your friends </strong>
 
 <img width="981" alt="Screen Shot 2019-12-09 at 1 55 27 PM" src="https://user-images.githubusercontent.com/52920074/70463799-96bd8300-1a8b-11ea-9250-aafd5738713c.png">
-<br>
-
-### <strong>React Weather App</strong>
-
-<img width="358" alt="Screen Shot 2019-12-09 at 1 29 32 PM" src="https://user-images.githubusercontent.com/52920074/70463637-434b3500-1a8b-11ea-9c6b-ad5ce891a203.png">
 <br>
 
 ### <strong>Redux-Dev-Tools-Extension</strong>
@@ -230,19 +228,6 @@ App.js:
 ```
 import { Provider } from "react-redux";
 import store from "./store";
-```
-
-### WEATHER API_KEY
-
-```
-const Api_Key = "ADD_YOUR_API_KEY";
-
- if (country && city) {
-      const api_call = await fetch(
-        `http://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${Api_Key}`
-      );
-
-const response = await api_call.json();
 ```
 
 ## Main Technologies
